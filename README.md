@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Farhan Alam</h1>
+<p align="center"><i>"Making mistakes and improving everyday."</i></p>
 
-<!--
-**FarhanAlam-hub/FarhanAlam-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/FOLLOWERS-4-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STARS-4-red?style=for-the-badge" />
+  <a href="mailto:farhanalam823001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/farhanalam0605"><img src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋 About Me
+
+I'm a **3rd Year CSE student** learning **Python** and **AI**, and exploring full-stack web development on the side.
+
+### 🚀 What I'm doing
+- 🐍 Practicing Python through hands-on projects
+- 🤖 Learning the fundamentals of AI
+- 🌐 Building front-end clones to sharpen my HTML/CSS skills
+- 📚 Improving my CS fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🐍 Python-Projects
+My Python practice repo — a collection of exercises and small scripts as I build up my Python skills.
+**Stack:** Python
+🔗 [GitHub](https://github.com/FarhanAlam-hub/Python-Projects)
+
+### 🛍️ MyntraClone
+A front-end clone of the Myntra e-commerce site, built to practice HTML/CSS layout and UI structure.
+**Stack:** HTML
+🔗 [GitHub](https://github.com/FarhanAlam-hub/MyntraClone)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAlam-hub&show_icons=true&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanAlam-hub&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/FarhanAlam-hub"><img src="https://img.shields.io/badge/GITHUB-red?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/farhanalam0605"><img src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:farhanalam823001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>

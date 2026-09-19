@@ -47,9 +47,6 @@ A front-end clone of the Myntra e-commerce site, built to practice HTML/CSS layo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanAlam-hub&show_icons=true&theme=radical" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanAlam-hub&theme=radical" />
 </p>
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarhanAlam-hub/FarhanAlam-hub/output/github-contribution-grid-snake-dark.svg"> <img alt="snake" src="https://raw.githubusercontent.com/FarhanAlam-hub/FarhanAlam-hub/output/github-contribution-grid-snake.svg"> </picture>
@@ -63,3 +60,7 @@ A front-end clone of the Myntra e-commerce site, built to practice HTML/CSS layo
   <a href="https://linkedin.com/in/farhanalam0605"><img src="https://img.shields.io/badge/LINKEDIN-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:farhanalam823001@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+ <h2 align= "center">💖Thanks For Visting🙏</h2>
+
